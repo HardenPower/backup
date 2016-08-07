@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.3.0_05d422d8aaabffa7a88ba32a8516fe5044e4f45f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Алексей Бут\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.5.1\eecbb0b998e77629862a13d957d552b3be58fc4e\httpclient-android-4.3.5.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e">
+        <dex dex="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-android-4.3.5.1_b2746b18389ac00d61b0a785b7c0be2101cefbd5\classes.dex" />
+    </item>
+    <item
+        jar="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_7c80044cf2bc69189b28c89ec169cddc507dc6c2\classes.dex" />
+    </item>
+    <item
+        jar="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_613ee81d0fdea96e97d06983a4756ee59794059d\classes.dex" />
+    </item>
+    <item
+        jar="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c5ea9e4282ede0f7f7b2e362749f18a2cb395e1a">
+        <dex dex="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bdb116f420794b7c8e170d1af60e92bf887e68f4\classes.dex" />
+    </item>
+    <item
+        jar="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_d01a672f09e1b7f5d9cad9ae3bc506a13c6e4995\classes.dex" />
+    </item>
+    <item
+        jar="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_9e3f8a5d218c48ecc0090e28a1b296fd234af64e\classes.dex" />
+    </item>
+    <item
+        jar="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_6f4727dff30fe2321e269e7f3958bfd4bd04b155\classes.dex" />
+    </item>
+    <item
+        jar="D:\games\Android SDK\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_ac3f5bb4b44c21ab67d0b00edc32714619a8268b\classes.dex" />
+    </item>
+    <item
+        jar="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_acee11110150d82949adbb078c3c04b465eee43e\classes.dex" />
+    </item>
+    <item
+        jar="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="379aab40f9b7fa065b6a96b6cd67985b6bb745fe">
+        <dex dex="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ac2ae0811863f14294c642e9b6ab590d4b01d3ff\classes.dex" />
+    </item>
+    <item
+        jar="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.0.0_a4fe143ce13209925e1c26a594c324833a547233\classes.dex" />
+    </item>
+    <item
+        jar="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_54118dd708d65616b39bd8a8929d6d7192529471\classes.dex" />
+    </item>
+    <item
+        jar="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_c5cd07adb21a7c588340c0ec2e75de018445f0e4\classes.dex" />
+    </item>
+    <item
+        jar="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\games\Android SDK\Project\ToDoListClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_dc931de0684ad727719047ab0fce7af96f53f0fd\classes.dex" />
+    </item>
+
+</items>

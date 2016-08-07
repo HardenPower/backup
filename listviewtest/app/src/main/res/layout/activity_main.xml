@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:orientation="vertical"
+android:weightSum="1">
+
+    <EditText
+    android:id="@+id/edTAirportchoice1"
+    android:layout_width="match_parent"
+    android:layout_height="74dp"
+    android:textSize="45sp"
+    android:clickable="true"
+    android:textColorHint="#715b5b"
+    android:textColor="@color/colorPrimary"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="130dp"
+        android:cursorVisible="false"
+        android:hint="Choice" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Launch browser"
+        android:id="@+id/button1"
+        android:layout_marginTop="80dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="25sp" />
+
+
+</RelativeLayout>

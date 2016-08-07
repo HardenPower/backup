@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Мои покупки</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_purchase_add">Добавляем покупки</string>
+    <string name="title_activity_reg">RegActivity</string>
+    <string name="title_activity_authorization">Мои покупки</string>
+    <string name="title_activity_purchase_screen">Мои покупки</string>
+    <string name="title_activity_registration">Регистрация</string>
+    <string name="title_activity_succes_authorization">Регистрация прошла успешно</string>
+
+    <string name="current_task">Текущие</string>
+    <string name="done_task">Купленные</string>
+
+    <string name="dialog_title">Добавить покупку</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Отмена</string>
+    <string name="dialog_buy">Что купить?</string>
+
+    <string name="task_title">Заголовок</string>
+    <string name="task_date">Дата</string>
+    <string name="task_time">Время</string>
+
+    <string name="dialog_remove">Удалить?</string>
+    <string name="removed">Removed</string>
+
+
+
+
+    <string name="title_activity_">Activity</string>
+</resources>

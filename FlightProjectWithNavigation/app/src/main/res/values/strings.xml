@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Flight Table</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="search_item">Поиск</string>
+    <string name="history_item">История</string>
+    <string name="favorites_item">Избранное</string>
+    <string name="private_office_item">Личный кабинет</string>
+    <string name="communicate_item">Communicate</string>
+    <string name="settings_item">Настройки</string>
+    <string name="settings_item2">Настройки</string>
+    <string name="StrAirportsChoice"></string>
+    <string name="about_item">О приложении</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

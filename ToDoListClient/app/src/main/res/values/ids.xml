@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Lilo" type="id">1</item>
+    <item name="rvCurrentTasks" type="id">rvCurrentTask</item>
+    <item name="rvDoneTask" type="id">rvDoneTask</item>
+    <item name="cvTaskPriority" type="id">cvTaskPriority</item>
+</resources>

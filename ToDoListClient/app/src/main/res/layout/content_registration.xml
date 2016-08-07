@@ -1,0 +1,91 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+
+    tools:showIn="@layout/activity_registration"
+    android:background="#4dd2e1"
+    android:weightSum="1">
+
+
+    <ImageView
+
+        android:layout_width="202dp"
+        android:layout_height="120dp"
+        android:id="@+id/imageView"
+
+        android:src="@drawable/hdf"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Регистрация прошла успешно!"
+        android:id="@+id/tvWelcomeMsg"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.05" />
+
+    <TextView
+        android:text="Логин"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/etUsername"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:enabled="true"
+        android:focusable="false"
+        android:cursorVisible="false"
+        android:longClickable="false"
+    />
+
+    <TextView
+        android:text="Имя"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/etName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:enabled="true"
+        android:focusable="false"
+        android:cursorVisible="false"
+        android:longClickable="false"/>
+
+    <TextView
+        android:text="Эл.почта"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/etEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:enabled="true"
+        android:focusable="false"
+        android:cursorVisible="false"
+        android:longClickable="false"/>
+
+
+    <Button
+        android:id="@+id/bLogout"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:text="Выйти"
+        android:layout_height="wrap_content"
+        android:textColor="@color/accent_material_light"
+        android:textAlignment="center" />
+
+    <Button
+        android:layout_width="362dp"
+        android:layout_height="wrap_content"
+        android:text="Перейти к покупкам"
+        android:id="@+id/goList"
+        android:layout_gravity="right"
+        android:textColor="@color/accent_material_light"
+        android:textAlignment="center" />
+</LinearLayout>

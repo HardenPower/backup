@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Flightstats</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_splash">Don\'t show splash</string>
+    <string name="there_flight">Туда</string>
+    <string name="back_flight">Обратно</string>
+
+
+    <string name="dialog_title">Улетаем мы с тобой</string>
+    <string name="dialog_ok">Ок</string>
+    <string name="dialog_cancel">Отмена</string>
+    <string name="dialog_error_empty_title">Пожалуйста,выберите дату</string
+        >
+
+    <string name="task_title">Заголовок шоб лететь</string>
+    <string name="task_date">Дата шоб лететь</string>
+
+    <string name="airports_list">Воронеж</string>
+    <string name="airports_list_title">Откуда</string>
+</resources>

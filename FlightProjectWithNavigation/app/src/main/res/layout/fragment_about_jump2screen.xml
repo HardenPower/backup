@@ -1,0 +1,15 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ticket.flight.flightprojectwithnavigation.fragments.FragmentAboutJump2screen">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:text="Это приложение имеет самый простой функционал,а значит не имеет аналогов,с каждым обновлением приложение будет улучшаться, о всех недоработках, ошибках и недостатках сообщайте на почту firstexperienceapp@gmail.com"
+    />
+
+</FrameLayout>
